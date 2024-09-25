@@ -11,8 +11,9 @@
 💻 Tech Stack:[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,php,bootstrap,mysql,java)](https://skillicons.dev)
 
 
-CONTACT ME:
+
 <p align="center">
+  <p>CONTACT ME: </p>
 <a href="https://www.linkedin.com/in/tomas-caraccioli-a77218271/"><img src="https://img.shields.io/badge/-Linkedin?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:tomascaracholi@gmail.com" target="blank"><img src="https://img.shields.io/badge/-tomascaracholi@gmail?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/tomicaracholi"><img src="https://img.shields.io/badge/-@tomicaracholi?style=flat&logo=Instagram&logoColor=white"/></a>
