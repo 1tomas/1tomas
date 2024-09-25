@@ -13,7 +13,7 @@ HTML5 CSS3 Java PHP Bootstrap JavaScript React Git MySQL Xampp
 
 <p align="center">
 <a href="https://www.linkedin.com/in/tomas-caraccioli-a77218271/"><img src="https://img.shields.io/badge/-Linkedin?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:tomascaracholi@gmail.com"><img src="https://img.shields.io/badge/-tomascaracholi@gmail?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:tomascaracholi@gmail.com" target="blank"><img src="https://img.shields.io/badge/-tomascaracholi@gmail?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/tomicaracholi"><img src="https://img.shields.io/badge/-@tomicaracholi?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
