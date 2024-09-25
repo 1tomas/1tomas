@@ -7,8 +7,8 @@
 
 👾 Curious about my work? Let’s chat!
 
-💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,php,bootstrap,mysql,java)](https://skillicons.dev)
+
+💻 Tech Stack:[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,php,bootstrap,mysql,java)](https://skillicons.dev)
 
 
 CONTACT ME:
