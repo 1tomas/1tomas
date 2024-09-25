@@ -8,9 +8,10 @@
 👾 Curious about my work? Let’s chat!
 
 💻 Tech Stack:
-HTML5 CSS3 Java PHP Bootstrap JavaScript React Git MySQL Xampp
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,php,bootstrap,mysql,java)](https://skillicons.dev)
 
 
+CONTACT ME:
 <p align="center">
 <a href="https://www.linkedin.com/in/tomas-caraccioli-a77218271/"><img src="https://img.shields.io/badge/-Linkedin?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:tomascaracholi@gmail.com" target="blank"><img src="https://img.shields.io/badge/-tomascaracholi@gmail?style=flat&logo=Gmail&logoColor=white"/></a>
